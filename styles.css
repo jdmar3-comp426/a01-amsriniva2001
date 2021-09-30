@@ -6,7 +6,6 @@ h1 {
   color: black;
   margin-left: 20px;
   font-family: "Papyrus";
-  width: 100;
 }
 
 p {
@@ -15,7 +14,11 @@ p {
 
 img {
   border: 10px solid #300;
-  width: 400;
+  width: auto;  
+}
+
+figcaption {
+  font-family: "Arial";
 }
 
 link:hover {
