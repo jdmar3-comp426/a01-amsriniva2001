@@ -5,8 +5,13 @@ body {
 h1 {
   color: black;
   margin-left: 20px;
+  font-family: "Papyrus";
+}
+
+p {
+  font-family: "Comic Sans MS";
 }
 
 link:hover {
-  color: blue;
+  color: red;
 }
