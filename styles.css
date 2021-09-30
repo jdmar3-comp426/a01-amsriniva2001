@@ -1,5 +1,5 @@
 body {
-  background-color: tan;
+  background-color: #e9914a;
 }
 
 h1 {
@@ -14,6 +14,7 @@ p {
 
 img {
   border: 10px solid #300;
+  
 }
 
 link:hover {
