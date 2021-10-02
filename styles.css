@@ -12,6 +12,18 @@ p {
   font-family: "Comic Sans MS";
 }
 
+p1 {
+  font-family: "Comic Sans MS";
+}
+
+p2 {
+  font-family: "Comic Sans MS";
+}
+
+p3 {
+  font-family: "Comic Sans MS";
+}
+
 img {
   border: 10px solid #300;
   width: auto;  
@@ -19,6 +31,10 @@ img {
 
 figcaption {
   font-family: "Arial";
+}
+
+li {
+  font-family: "Comic Sans MS";
 }
 
 link:hover {
