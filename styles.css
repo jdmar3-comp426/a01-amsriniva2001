@@ -2,7 +2,7 @@ body {
   background-color: #e9914a;
 }
 
-div > h1 {
+h1 {
   color: black;
   margin-left: 20px;
   font-family: "Papyrus";
@@ -13,10 +13,25 @@ div > h1 {
 }
 
 #goindex {
+  text-align: center;
   font-weight: bold;
   font-family: "Papyrus";
-  font-size: xx-large;
 }
+
+#gonext {
+  font-size: 40px;
+  text-align: right
+}
+
+#goprev {
+  font-size: 40px;
+}
+
+summary{
+  font-weight: bold;
+  font-family: "Calibri";
+}
+
 
 img {
   border: 10px solid #300;
