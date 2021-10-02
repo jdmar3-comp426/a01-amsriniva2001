@@ -8,7 +8,7 @@ h1 {
   font-family: "Papyrus";
 }
 
-.text {
+div > .text {
   font-family: "Comic Sans MS";
 }
 
