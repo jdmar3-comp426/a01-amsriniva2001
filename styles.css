@@ -12,16 +12,10 @@ p {
   font-family: "Comic Sans MS";
 }
 
-p1 {
-  font-family: "Comic Sans MS";
-}
-
-p2 {
-  font-family: "Comic Sans MS";
-}
-
-p3 {
-  font-family: "Comic Sans MS";
+#goindex {
+  font-weight: bold;
+  font-family: "Papyrus";
+  font-size: xx-large;
 }
 
 img {
