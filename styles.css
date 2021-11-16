@@ -1,0 +1,51 @@
+body {
+  background-color: #e9914a;
+}
+
+div h1 {
+  color: black;
+  margin-left: 20px;
+  font-family: "Papyrus";
+}
+
+.text {
+  font-family: "Comic Sans MS";
+}
+
+#goindex {
+  text-align: center;
+  font-weight: bold;
+  font-family: "Papyrus";
+}
+
+#gonext {
+  font-size: 40px;
+  text-align: right
+}
+
+#goprev {
+  font-size: 40px;
+}
+
+summary{
+  font-weight: bold;
+  font-family: "Calibri";
+}
+
+
+img {
+  border: 10px solid #300;
+  width: auto;  
+}
+
+figcaption {
+  font-family: "Arial";
+}
+
+li {
+  font-family: "Comic Sans MS";
+}
+
+link:hover {
+  color: red;
+}
